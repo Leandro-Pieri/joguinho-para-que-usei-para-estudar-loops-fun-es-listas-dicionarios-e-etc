@@ -1,1 +1,1 @@
-"# joguinho-para-que-usei-para-estudar-loops-fun-es-listas-dicionarios-e-etc" 
+"# joguinho-que-usei-para-estudar-loops-funcoes-listas-dicionarios-e-etc" 
